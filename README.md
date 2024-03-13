@@ -1,1 +1,1 @@
-# aws-sagmaker
+# aws-sagemaker
